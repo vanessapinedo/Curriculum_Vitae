@@ -1,0 +1,39 @@
+/* css de index.html*/
+.index{
+    margin: 20px 0 0 100px;
+    background-color: rgba(186, 197, 216, 0.675);
+}
+
+img{
+    width: 170px;
+    height: 200px;
+}
+
+.square{
+    list-style-type: square;
+}
+
+.none{
+    list-style-type: none;
+}
+
+/* css de portafolio.html*/
+table, td{
+    border: rgb(23, 4, 231) 2px solid;
+    margin: 50px 0 0 50px;
+}
+
+.link{
+    text-align: center;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    color: rgb(16, 4, 144);
+}
+
+.screenshot{
+    width: 600px;
+    height: 1000px;  
+}
+
+
+    
